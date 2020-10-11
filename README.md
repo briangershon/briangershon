@@ -1,3 +1,8 @@
+<p align="right">
+    <img src="https://images.unsplash.com/photo-1468276311594-df7cb65d8df6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjM4MDM3fQ&w=854&h=160&fit=crop&crop=entropy&mask=corners&&corner-radius=20,20,0,0" alt="header photo" />
+    <span>Photo by <a href="https://unsplash.com/@krisroller?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kristopher Roller</a></span>
+</p>
+
 ### Hi there 👋
 
 <!--
