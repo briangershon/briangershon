@@ -7,34 +7,27 @@ const name = 'Brian Gershon';
 console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 ```
 
-🌱 I create compact starter templates as a base for my projects
+🌱 I enjoy creating opinionated and compact starter templates for my projects:
+
 - [VanillaJS](https://github.com/briangershon/vanilla-js-minimal) |
-[three.js](https://github.com/briangershon/threejs-minimal) |
-[NPM Package hosted on Github](https://github.com/briangershon/npm-package-minimal) |
-[Eleventy](https://github.com/briangershon/eleventy-minimal) |
-[Glitch](https://github.com/briangershon/glitch-minimal) |
-[Node.js](https://github.com/briangershon/nodejs-minimal) | [React.js](https://github.com/briangershon/react-minimal)
+  [three.js](https://github.com/briangershon/threejs-minimal) |
+  [NPM Package hosted on Github](https://github.com/briangershon/npm-package-minimal) |
+  [Eleventy](https://github.com/briangershon/eleventy-minimal) |
+  [Glitch](https://github.com/briangershon/glitch-minimal) |
+  [Node.js](https://github.com/briangershon/nodejs-minimal) | [React.js](https://github.com/briangershon/react-minimal)
 
 ⚡ I binge on [CodeWars](https://www.codewars.com/users/briangershon) and [JavaScript algorithms](https://github.com/briangershon/algorithms-in-javascript)
 
-🔭 I dabble with
-- [FaunaDB](https://github.com/briangershon/team-rotation-faunadb) persistence (for a Slackbot project)
-- [IoT and Arduino Cloud](https://www.briangershon.com/blog/arduino-iot-explore-kit-getting-started-air-quality-sunrise-sunset/)
-- [Canvas-based sprite-animation with VanillaJS](https://github.com/briangershon/ufo) and [UFOs pixel art created on Piskel](https://www.piskelapp.com/user/5359821142360064)
-- Github Actions used in my starter templates, and this [cron demo](https://github.com/briangershon/github-actions-cron)
-- My serverless bookmark service for my [Eleventy](https://www.briangershon.com/blog/choose-your-own-adventure-with-eleventy/) based [blog](https://www.briangershon.com)
+☀️ I like working with:
 
-<!--
-**briangershon/briangershon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Serverless -- my running list of [favorite bookmarks](https://www.briangershon.com/bookmarks/) is a serverless service in which I sent it URLs and it generates metadata and primary images. Bookmarks are rendered on my [Eleventy-based](https://www.briangershon.com/blog/choose-your-own-adventure-with-eleventy/) blog
 
-Here are some ideas to get you started:
+- Do-it-yourself animations -- [UFOs](https://briangershon.github.io/ufo/) / [pixel art](https://www.piskelapp.com/user/5359821142360064) / [Animated billboard](https://marbles.briangershon.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Slack bots -- [FaunaDB](https://github.com/briangershon/team-rotation-faunadb) persistence (for a Slackbot project)
+
+- Internet of Things -- [IoT and Arduino Cloud](https://www.briangershon.com/blog/arduino-iot-explore-kit-getting-started-air-quality-sunrise-sunset/)
+
+- Github Actions -- included in my starter templates (mentioned above) and nice for running [cron jobs](https://github.com/briangershon/github-actions-cron) too
+
+📫 Reach me at [briangershon.com/about](https://www.briangershon.com/about/)
