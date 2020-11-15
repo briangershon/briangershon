@@ -7,27 +7,27 @@ const name = 'Brian Gershon';
 console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 ```
 
-🌱 I enjoy creating opinionated and compact starter templates for my projects:
+☀️ I enjoy:
 
-- [VanillaJS](https://github.com/briangershon/vanilla-js-minimal) |
-  [three.js](https://github.com/briangershon/threejs-minimal) |
-  [NPM Package hosted on Github](https://github.com/briangershon/npm-package-minimal) |
-  [Eleventy](https://github.com/briangershon/eleventy-minimal) |
-  [Glitch](https://github.com/briangershon/glitch-minimal) |
-  [Node.js](https://github.com/briangershon/nodejs-minimal) | [React.js](https://github.com/briangershon/react-minimal)
+- building concise starter templates for tech I use often
+    - [VanillaJS](https://github.com/briangershon/vanilla-js-minimal)
+    - [three.js](https://github.com/briangershon/threejs-minimal)
+    - [Github-hosted NPM Packages](https://github.com/briangershon/npm-package-minimal)
+    - [Eleventy](https://github.com/briangershon/eleventy-minimal)
+    - [Glitch](https://github.com/briangershon/glitch-minimal)
+    - [Node.js](https://github.com/briangershon/nodejs-minimal)
+    - [React.js](https://github.com/briangershon/react-minimal)
 
-⚡ I binge on [CodeWars](https://www.codewars.com/users/briangershon) and [JavaScript algorithms](https://github.com/briangershon/algorithms-in-javascript)
+- running Serverless. My growing list of interesting [website bookmarks](https://www.briangershon.com/bookmarks/) is a serverless service which accepts URLs and then generates metadata and primary images for those sites. Bookmarks are rendered on my [Eleventy-based](https://www.briangershon.com/blog/choose-your-own-adventure-with-eleventy/) blog.
 
-☀️ I like working with:
+- writing my own do-it-yourself animations -- [UFOs](https://briangershon.github.io/ufo/) | [pixel art](https://www.piskelapp.com/user/5359821142360064) | [Animated billboard](https://marbles.briangershon.com/)
 
-- Serverless -- my running list of [favorite bookmarks](https://www.briangershon.com/bookmarks/) is a serverless service in which I sent it URLs and it generates metadata and primary images. Bookmarks are rendered on my [Eleventy-based](https://www.briangershon.com/blog/choose-your-own-adventure-with-eleventy/) blog
+- toying with Slack bots -- [FaunaDB](https://github.com/briangershon/team-rotation-faunadb) persistence (for a Slackbot project)
 
-- Do-it-yourself animations -- [UFOs](https://briangershon.github.io/ufo/) / [pixel art](https://www.piskelapp.com/user/5359821142360064) / [Animated billboard](https://marbles.briangershon.com/)
+- dabbling with the Internet of Things -- [IoT and Arduino Cloud](https://www.briangershon.com/blog/arduino-iot-explore-kit-getting-started-air-quality-sunrise-sunset/)
 
-- Slack bots -- [FaunaDB](https://github.com/briangershon/team-rotation-faunadb) persistence (for a Slackbot project)
+- creating tools and Github Actions -- used in my starter templates (mentioned above) and nice for running [cron jobs](https://github.com/briangershon/github-actions-cron) too
 
-- Internet of Things -- [IoT and Arduino Cloud](https://www.briangershon.com/blog/arduino-iot-explore-kit-getting-started-air-quality-sunrise-sunset/)
+⚡ I went through an algorithm kick and binged on [CodeWars](https://www.codewars.com/users/briangershon) and [JavaScript algorithms](https://github.com/briangershon/algorithms-in-javascript)
 
-- Github Actions -- included in my starter templates (mentioned above) and nice for running [cron jobs](https://github.com/briangershon/github-actions-cron) too
-
-📫 Reach me at [briangershon.com/about](https://www.briangershon.com/about/)
+📫 You can find me in various communities by visiting [briangershon.com/about](https://www.briangershon.com/about/)
