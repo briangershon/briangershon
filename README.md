@@ -18,7 +18,7 @@ console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
     - [Node.js](https://github.com/briangershon/nodejs-minimal)
     - [React.js](https://github.com/briangershon/react-minimal)
 
-- running Serverless. My growing list of interesting [website bookmarks](https://www.briangershon.com/bookmarks/) is a serverless service which accepts URLs and then generates metadata and primary images for those sites. Bookmarks are rendered on my [Eleventy-based](https://www.briangershon.com/blog/choose-your-own-adventure-with-eleventy/) blog.
+- running Serverless. My growing list of [website bookmarks](https://www.briangershon.com/bookmarks/) is a serverless service which accepts URLs and then generates metadata and primary images for those sites. Bookmarks are rendered on my [Eleventy-based](https://www.briangershon.com/blog/choose-your-own-adventure-with-eleventy/) blog.
 
 - writing my own do-it-yourself animations -- [UFOs](https://briangershon.github.io/ufo/) | [pixel art](https://www.piskelapp.com/user/5359821142360064) | [Animated billboard](https://marbles.briangershon.com/)
 
@@ -28,6 +28,8 @@ console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 
 - creating tools and Github Actions -- used in my starter templates (mentioned above) and nice for running [cron jobs](https://github.com/briangershon/github-actions-cron) too
 
-⚡ I went through an algorithm kick and binged on [CodeWars](https://www.codewars.com/users/briangershon) and [JavaScript algorithms](https://github.com/briangershon/algorithms-in-javascript)
+- going on an algorithm kick on [CodeWars](https://www.codewars.com/users/briangershon) and [JavaScript algorithms](https://github.com/briangershon/algorithms-in-javascript)
+
+---
 
 📫 You can find me in various communities by visiting [briangershon.com/about](https://www.briangershon.com/about/)
