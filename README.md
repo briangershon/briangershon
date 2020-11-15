@@ -20,7 +20,7 @@ console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 
 - running Serverless. My growing list of [website bookmarks](https://www.briangershon.com/bookmarks/) is a serverless service which accepts URLs and then generates metadata and primary images for those sites. Bookmarks are rendered on my [Eleventy-based](https://www.briangershon.com/blog/choose-your-own-adventure-with-eleventy/) blog.
 
-- writing my own do-it-yourself animations -- [UFOs](https://briangershon.github.io/ufo/) | [pixel art](https://www.piskelapp.com/user/5359821142360064) | [Animated billboard](https://marbles.briangershon.com/)
+- writing my own do-it-yourself animations -- [UFOs](https://briangershon.github.io/ufo/) | [Animated billboard](https://marbles.briangershon.com/)
 
 - toying with Slack bots -- [FaunaDB](https://github.com/briangershon/team-rotation-faunadb) persistence (for a Slackbot project)
 
