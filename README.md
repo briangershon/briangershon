@@ -7,7 +7,7 @@ const name = 'Brian Gershon';
 console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 ```
 
-☀️ I enjoy:
+### ☀️ I enjoy:
 
 - building concise starter templates for tech I use often
     - [VanillaJS](https://github.com/briangershon/vanilla-js-minimal)
