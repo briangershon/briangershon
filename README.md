@@ -10,13 +10,11 @@ console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 ### ☀️ I enjoy:
 
 - building concise starter templates for tech I use often
-    - [VanillaJS](https://github.com/briangershon/vanilla-js-minimal)
-    - [three.js](https://github.com/briangershon/threejs-minimal)
-    - [Github-hosted NPM Packages](https://github.com/briangershon/npm-package-minimal)
-    - [Eleventy](https://github.com/briangershon/eleventy-minimal)
-    - [Glitch](https://github.com/briangershon/glitch-minimal)
-    - [Node.js](https://github.com/briangershon/nodejs-minimal)
-    - [React.js](https://github.com/briangershon/react-minimal)
+    - JavaScript: [VanillaJS](https://github.com/briangershon/vanilla-js-minimal) | [three.js](https://github.com/briangershon/threejs-minimal) | [Eleventy](https://github.com/briangershon/eleventy-minimal) | [Glitch](https://github.com/briangershon/glitch-minimal) | [Node.js](https://github.com/briangershon/nodejs-minimal) | [React.js](https://github.com/briangershon/react-minimal)
+    - Java: [Minecraft Plugin](https://github.com/briangershon/minecraft-plugin)
+    - NPM: [Github-hosted NPM Package](https://github.com/briangershon/npm-package-minimal)
+    - Python: [Setup Python for Machine Learning](https://github.com/briangershon/setup-python-for-machine-learning)
+    - Go: [Setup Go](https://github.com/briangershon/setup-go)
 
 - running Serverless. My growing list of [website bookmarks](https://www.briangershon.com/bookmarks/) is a serverless service which accepts URLs and then generates metadata and primary images for those sites. Bookmarks are rendered on my [Eleventy-based](https://www.briangershon.com/blog/choose-your-own-adventure-with-eleventy/) blog.
 
