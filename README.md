@@ -26,7 +26,7 @@ console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 
 - creating tools and Github Actions -- used in my starter templates (mentioned above) and nice for running [cron jobs](https://github.com/briangershon/github-actions-cron) too
 
-- going on an algorithm kick on [CodeWars](https://www.codewars.com/users/briangershon) and [JavaScript algorithms](https://github.com/briangershon/algorithms-in-javascript)
+- going on an algorithm kick on [CodeWars](https://www.codewars.com/users/briangershon), my [JavaScript algorithms repo](https://github.com/briangershon/algorithms-in-javascript) and [Advent of Code](https://adventofcode.com/)
 
 ---
 
