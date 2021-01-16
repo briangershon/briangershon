@@ -10,8 +10,8 @@ console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 ### ☀️ I enjoy:
 
 - creating concise template repos for quickly spinning up new projects
-    - JavaScript: [VanillaJS](https://github.com/briangershon/vanilla-js-minimal) | [three.js](https://github.com/briangershon/threejs-minimal) | [Eleventy](https://github.com/briangershon/eleventy-minimal) | [Glitch](https://github.com/briangershon/glitch-minimal) | [Node.js](https://github.com/briangershon/nodejs-minimal) | [React.js](https://github.com/briangershon/react-minimal)
-    - NPM: [Github-hosted NPM Package](https://github.com/briangershon/npm-package-minimal)
+    - JavaScript: [VanillaJS](https://github.com/briangershon/vanilla-js-minimal) | [Next.js](https://github.com/briangershon/nextjs-starter) | [three.js](https://github.com/briangershon/threejs-minimal) | [Eleventy](https://github.com/briangershon/eleventy-minimal) | [Glitch](https://github.com/briangershon/glitch-minimal) | [Node.js](https://github.com/briangershon/nodejs-minimal) | [React.js](https://github.com/briangershon/react-minimal)
+    - NPM Package: [Github-hosted NPM Package](https://github.com/briangershon/npm-package-minimal)
     - Python: [Setup Python for Machine Learning](https://github.com/briangershon/setup-python-for-machine-learning)
     - Go: [Setup Go](https://github.com/briangershon/setup-go)
     - Java: [Minecraft Plugin](https://github.com/briangershon/minecraft-plugin)
