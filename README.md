@@ -14,7 +14,7 @@
     <td width="60%"><h3>Developing Real-time Games with Cloudflare Durable Objects and Websockets</h3><p>What would a scalable game server look like on serverless? I kicked the Cloudflare tires and built an open source Planning Poker app to find out.</p><a href="https://www.briangershon.com/blog/developing-real-time-games-with-cloudflare-durable-objects-and-websockets/">Read it!</a></td>
    </tr>
    <tr>
-    <td width="40%">Read more at <a href="https://www.briangershon.com/blog/">briangershon/blog</a></td><td width="60%">&nbsp;</td>
+    <td width="40%">&nbsp;</td><td width="60%">Read more at <a href="https://www.briangershon.com/blog/">briangershon/blog</a></td>
    </tr>
 </table>
 
