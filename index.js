@@ -43,7 +43,6 @@ const readme = `\
 
 ---
 
-📫 You can find me in various communities by visiting [briangershon.com/about](https://www.briangershon.com/about/)
-`
+📫 You can find me in various communities by visiting [briangershon.com/about](https://www.briangershon.com/about/)`;
 
-console.log(readme)
+console.log(readme);
