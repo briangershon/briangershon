@@ -1,0 +1,24 @@
+{
+  "name": "briangershon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "generate": "node index.js > README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briangershon/briangershon.git"
+  },
+  "author": "Brian Gershon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briangershon/briangershon/issues"
+  },
+  "homepage": "https://github.com/briangershon/briangershon#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
