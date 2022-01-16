@@ -9,6 +9,7 @@
 const fs = require("fs").promises;
 const axios = require("axios");
 const cheerio = require("cheerio");
+const { Octokit, App } = require("octokit");
 
 const RSS_FEED_URL = "https://www.briangershon.com/feed.rss";
 
@@ -59,9 +60,40 @@ async function generateStatic() {
   });
 }
 
+async function generateStarterTemplateList() {
+  const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+  const q = "topic:starter-template user:briangershon is:public archived:false";
+  const data = await octokit.rest.search.repos({
+    q,
+    sort: "updated",
+  });
+  // console.log("count", data.data.total_count);
+
+  const results = [];
+  data.data.items.forEach((repo) => {
+    results.push(
+      `<tr>
+        <td width="30%">
+          <strong><a href="${repo.html_url}">${repo.name}</a></strong>
+        </td>
+        <td width="70%">${repo.description}</td>
+      </tr>`
+    );
+  });
+
+  return `
+## Starter Templates
+
+<table>
+${results.join("\n")}
+</table>
+`;
+}
+
 async function generatePage() {
   console.log(await generateBlog());
   console.log();
+  console.log(await generateStarterTemplateList());
   console.log(await generateStatic());
 }
 
