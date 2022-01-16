@@ -22,6 +22,9 @@
     </td>
   </tr>
 
+  <tr>
+    <td width="40%">&nbsp;</td><td width="60%">Read more at <a href="https://www.briangershon.com/blog/">briangershon/blog</a></td>
+  </tr>
 </table>
 
 ## I enjoy experimenting ☀️
