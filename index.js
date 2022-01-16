@@ -27,22 +27,22 @@ async function generateBlog() {
     const link = $(elm).find("link").text();
     const description = $(elm).find("description").text();
 
-    result.push(`\
+    result.push(`
   <tr>
     <td width="40%">
-      <img src="${link}slice.jpeg" />
+    <a href="${link}"><img src="${link}slice.jpeg" /></a>
     </td>
     <td width="60%">
       <h3>${title}</h3>
       <p>${description}</p>
-      <a href="${link}">Read it!</a>
+      <a href="${link}">Read more...</a>
     </td>
   </tr>
 `);
   });
 
   // return result with last n recent blog posts
-  return `\
+  return `
 ## Recent Blog Posts
 
 <table>
@@ -88,6 +88,8 @@ async function generateStarterTemplateList() {
   return `
 ## Starter Templates
 
+Repositories ready for cloning or pulling ideas from. Sorted by most recently updated.
+
 <table>
 ${results.join("\n")}
 <tr><td width="30%">&nbsp;</td><td width="70%">${rest.length} more: ${rest.map((r)=>{
@@ -99,7 +101,6 @@ ${results.join("\n")}
 
 async function generatePage() {
   console.log(await generateBlog());
-  console.log();
   console.log(await generateStarterTemplateList());
   console.log(await generateStatic());
 }
