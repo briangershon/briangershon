@@ -19,6 +19,7 @@
   "homepage": "https://github.com/briangershon/briangershon#readme",
   "dependencies": {
     "axios": "^0.24.0",
-    "cheerio": "^1.0.0-rc.10"
+    "cheerio": "^1.0.0-rc.10",
+    "octokit": "^1.7.1"
   }
 }

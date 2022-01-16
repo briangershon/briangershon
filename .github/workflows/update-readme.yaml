@@ -2,7 +2,7 @@ name: Update README.md
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 22 * * *'
+    - cron: '30 6 * * *' # 10:30p PST
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,6 +13,8 @@ jobs:
         node-version: '16.x'
     - run: npm install
     - run: npm run generate
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Update README.md (bot)
