@@ -88,7 +88,7 @@ async function generateStarterTemplateList() {
   return `
 ## Starter Templates
 
-Repositories ready for cloning or pulling ideas from. Sorted by most recently updated.
+Find configuration ideas or use as a foundation for your next project. View as a [Github search](https://github.com/search?o=desc&q=topic%3Astarter-template+user%3Abriangershon+is%3Apublic+archived%3Afalse&s=updated&type=Repositories).
 
 <table>
 ${results.join("\n")}
