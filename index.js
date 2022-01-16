@@ -67,10 +67,14 @@ async function generateStarterTemplateList() {
     q,
     sort: "updated",
   });
-  // console.log("count", data.data.total_count);
+
+  const totalCount = data.data.total_count;
+
+  const topSix = data.data.items.slice(0, 6);
+  const rest = data.data.items.slice(6, totalCount);
 
   const results = [];
-  data.data.items.forEach((repo) => {
+  topSix.forEach((repo) => {
     results.push(
       `<tr>
         <td width="30%">
@@ -86,6 +90,9 @@ async function generateStarterTemplateList() {
 
 <table>
 ${results.join("\n")}
+<tr><td width="30%">&nbsp;</td><td width="70%">${rest.length} more: ${rest.map((r)=>{
+  return ` <a href="${r.html_url}">${r.name}</a>`;
+})}</td></tr>
 </table>
 `;
 }
