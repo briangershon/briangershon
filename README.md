@@ -9,7 +9,7 @@
     </td>
     <td width="60%">
       <h3>Exploring Smart Contracts</h3>
-      <p>Build a new generation of apps based on the blockchain and Smart Contracts. Fund your favorite creator (which might be you!), build games with real economies, run your organization with distributed ownership and governance models.</p>
+      <p>Build a new generation of apps based on the blockchain and Smart Contracts. These tools can help you fund your projects, support your favorite creators, build games with real economies, and find new models for distributed ownership and governance.</p>
       <a href="https://www.briangershon.com/blog/exploring-smart-contracts/">Read more...</a>
     </td>
   </tr>
