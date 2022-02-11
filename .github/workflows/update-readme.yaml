@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
   schedule:
-    - cron: '30 6 * * *' # 10:30p PST
+    - cron: '30 6 * * 0' # 10:30p PST on Sunday
 jobs:
   build:
     runs-on: ubuntu-latest
