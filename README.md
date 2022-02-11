@@ -5,23 +5,23 @@
 
   <tr>
     <td width="40%">
-    <a href="https://www.briangershon.com/blog/exploring-smart-contracts/"><img src="https://www.briangershon.com/blog/exploring-smart-contracts/slice.jpeg" /></a>
+    <a href="https://www.briangershon.com/blog/electric-coffin-unios-nft-project/"><img src="https://www.briangershon.com/blog/electric-coffin-unios-nft-project/slice.jpeg" /></a>
     </td>
     <td width="60%">
-      <h3>Exploring Smart Contracts</h3>
-      <p>Build a new generation of apps based on the blockchain and Smart Contracts. These tools can help you fund your projects, support your favorite creators, build games with real economies, and find new models for distributed ownership and governance.</p>
-      <a href="https://www.briangershon.com/blog/exploring-smart-contracts/">Read more...</a>
+      <h3>The Unios Project by Electric Coffin</h3>
+      <p>Explore the new Unios online community and their NFT project, which explores the intersection of art and technology. Minting is soon on Feb 16th.</p>
+      <a href="https://www.briangershon.com/blog/electric-coffin-unios-nft-project/">Read more...</a>
     </td>
   </tr>
 
   <tr>
     <td width="40%">
-    <a href="https://www.briangershon.com/blog/developing-real-time-games-with-cloudflare-durable-objects-and-websockets/"><img src="https://www.briangershon.com/blog/developing-real-time-games-with-cloudflare-durable-objects-and-websockets/slice.jpeg" /></a>
+    <a href="https://www.briangershon.com/blog/museum-of-museums-in-seattle/"><img src="https://www.briangershon.com/blog/museum-of-museums-in-seattle/slice.jpeg" /></a>
     </td>
     <td width="60%">
-      <h3>Developing Real-time Games with Cloudflare Durable Objects and Websockets</h3>
-      <p>What would a scalable game server look like on serverless? I kicked the Cloudflare tires and built an open source Planning Poker app to find out.</p>
-      <a href="https://www.briangershon.com/blog/developing-real-time-games-with-cloudflare-durable-objects-and-websockets/">Read more...</a>
+      <h3>Seattle's Museum of Museums is a Delight</h3>
+      <p>Visit this contemporary art museum, currently featuring Electric Coffin's Future Machine exhibit, CAT TOWER!, and many others.</p>
+      <a href="https://www.briangershon.com/blog/museum-of-museums-in-seattle/">Read more...</a>
     </td>
   </tr>
 
