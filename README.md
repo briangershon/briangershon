@@ -38,6 +38,13 @@ My most recent code contributions (limited to latest 10 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>briangershon/briangershon</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/briangershon/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">4 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>Developer-DAO/ukraine-donation-nft</strong>
         </td>
         <td width="30%"><a href="https://github.com/Developer-DAO/ukraine-donation-nft/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">15 PRs</a></td>
@@ -55,13 +62,6 @@ My most recent code contributions (limited to latest 10 repositories). View all 
           <strong>Developer-DAO/pixel-avatars</strong>
         </td>
         <td width="30%"><a href="https://github.com/Developer-DAO/pixel-avatars/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">16 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/briangershon</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/briangershon/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
       </tr>
 <tr>
         <td width="
