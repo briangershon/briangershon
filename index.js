@@ -92,15 +92,74 @@ Find configuration ideas or use as a foundation for your next project. View as a
 
 <table>
 ${results.join("\n")}
-<tr><td width="30%">&nbsp;</td><td width="70%">${rest.length} more: ${rest.map((r)=>{
-  return ` <a href="${r.html_url}">${r.name}</a>`;
-})}</td></tr>
+<tr><td width="30%">&nbsp;</td><td width="70%">${rest.length} more: ${rest.map(
+    (r) => {
+      return ` <a href="${r.html_url}">${r.name}</a>`;
+    }
+  )}</td></tr>
+</table>
+`;
+}
+
+async function generateActiveRepos() {
+  const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+  const q = "is:closed is:pr author:briangershon archived:false is:public";
+  const data = await octokit.paginate(
+    octokit.rest.search.issuesAndPullRequests,
+    {
+      q,
+      order: "desc",
+    }
+  );
+
+  const items = data;
+
+  const repos = {};
+  items.forEach((pr) => {
+    // console.log('PR', pr);
+    const key = pr.html_url.split("/pull")[0];
+    if (key in repos) {
+      repos[key]++;
+    } else {
+      repos[key] = 1;
+    }
+  });
+
+  const repoSummary = Object.entries(repos).slice(0, 10);
+
+  const results = [];
+  repoSummary.forEach((repo) => {
+    const repoSplit = repo[0].split("/");
+    const shortName = `${repoSplit[3]}/${repoSplit[4]}`;
+    results.push(
+      `<tr>
+        <td width="
+        70%">
+          <strong>${shortName}</strong>
+        </td>
+        <td width="30%"><a href="${
+          repo[0]
+        }/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">${repo[1]} PR${
+        repo[1] > 1 ? "s" : ""
+      }</a></td>
+      </tr>`
+    );
+  });
+
+  return `
+## Open-Source Contributions
+
+My most recent code contributions (limited to latest 10 repositories). View all PRs [as a Github search](https://github.com/pulls?q=is%3Aclosed+is%3Apr+author%3Abriangershon+archived%3Afalse+is%3Apublic).
+
+<table>
+${results.join("\n")}
 </table>
 `;
 }
 
 async function generatePage() {
   console.log(await generateBlog());
+  console.log(await generateActiveRepos());
   console.log(await generateStarterTemplateList());
   console.log(await generateStatic());
 }
