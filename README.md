@@ -40,7 +40,7 @@ My most recent code contributions (limited to latest 10 repositories). View all 
         70%">
           <strong>briangershon/openzeppelin-solidity-hardhat-playground</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-solidity-hardhat-playground/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-solidity-hardhat-playground/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
       </tr>
 <tr>
         <td width="
