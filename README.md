@@ -38,6 +38,13 @@ My most recent code contributions (limited to latest 10 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>briangershon/openzeppelin-erc721-upgradeable</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>briangershon/openzeppelin-solidity-hardhat-playground</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/openzeppelin-solidity-hardhat-playground/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
@@ -98,13 +105,6 @@ My most recent code contributions (limited to latest 10 repositories). View all 
         </td>
         <td width="30%"><a href="https://github.com/0x006F/react-media-recorder/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
       </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/minecraft-server-motd-3t3n</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/minecraft-server-motd-3t3n/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
-      </tr>
 </table>
 
 
@@ -113,6 +113,12 @@ My most recent code contributions (limited to latest 10 repositories). View all 
 Find configuration ideas or use as a foundation for your next project. View as a [Github search](https://github.com/search?o=desc&q=topic%3Astarter-template+user%3Abriangershon+is%3Apublic+archived%3Afalse&s=updated&type=Repositories).
 
 <table>
+<tr>
+        <td width="30%">
+          <strong><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a></strong>
+        </td>
+        <td width="70%">Develop, test and deploy an upgradeable NFT contract based on OpenZeppelin ERC721 Solidity framework and Hardhat development environment. Deploy to any EVM blockchain.</td>
+      </tr>
 <tr>
         <td width="30%">
           <strong><a href="https://github.com/briangershon/openzeppelin-solidity-hardhat-playground">openzeppelin-solidity-hardhat-playground</a></strong>
@@ -143,13 +149,7 @@ Find configuration ideas or use as a foundation for your next project. View as a
         </td>
         <td width="70%">JavaScript starter with TypeScript and webpack. Plus Jest and Github CI.</td>
       </tr>
-<tr>
-        <td width="30%">
-          <strong><a href="https://github.com/briangershon/npm-package-minimal">npm-package-minimal</a></strong>
-        </td>
-        <td width="70%">A starter template that contains a TypeScript-based JavaScript module which is published to Github Packages in both CJS and ESM module formats. Includes Jest testing and Github Actions for testing and publishing.</td>
-      </tr>
-<tr><td width="30%">&nbsp;</td><td width="70%">5 more:  <a href="https://github.com/briangershon/eleventy-minimal">eleventy-minimal</a>, <a href="https://github.com/briangershon/vanilla-js-minimal">vanilla-js-minimal</a>, <a href="https://github.com/briangershon/minecraft-plugin">minecraft-plugin</a>, <a href="https://github.com/briangershon/threejs-minimal">threejs-minimal</a>, <a href="https://github.com/briangershon/nodejs-minimal">nodejs-minimal</a></td></tr>
+<tr><td width="30%">&nbsp;</td><td width="70%">6 more:  <a href="https://github.com/briangershon/npm-package-minimal">npm-package-minimal</a>, <a href="https://github.com/briangershon/eleventy-minimal">eleventy-minimal</a>, <a href="https://github.com/briangershon/vanilla-js-minimal">vanilla-js-minimal</a>, <a href="https://github.com/briangershon/minecraft-plugin">minecraft-plugin</a>, <a href="https://github.com/briangershon/threejs-minimal">threejs-minimal</a>, <a href="https://github.com/briangershon/nodejs-minimal">nodejs-minimal</a></td></tr>
 </table>
 
 ## Miscellaneous
