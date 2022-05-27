@@ -38,6 +38,13 @@ My most recent code contributions (limited to latest 10 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>briangershon/solana-clicker-game</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/solana-clicker-game/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">6 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>briangershon/openzeppelin-erc721-upgradeable</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
@@ -97,13 +104,6 @@ My most recent code contributions (limited to latest 10 repositories). View all 
           <strong>briangershon/react-minimal</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/react-minimal/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>0x006F/react-media-recorder</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/0x006F/react-media-recorder/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
       </tr>
 </table>
 
