@@ -40,7 +40,7 @@ My most recent code contributions (limited to latest 10 repositories). View all 
         70%">
           <strong>briangershon/solana-clicker-game</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/solana-clicker-game/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">9 PRs</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/solana-clicker-game/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">11 PRs</a></td>
       </tr>
 <tr>
         <td width="
