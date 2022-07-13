@@ -5,23 +5,23 @@
 
   <tr>
     <td width="40%">
-    <a href="https://www.briangershon.com/blog/electric-coffin-unios-nft-project/"><img src="https://www.briangershon.com/blog/electric-coffin-unios-nft-project/slice.jpeg" /></a>
+    <a href="https://www.briangershon.com/blog/web3-engineering-with-nfts-getting-started/"><img src="https://www.briangershon.com/blog/web3-engineering-with-nfts-getting-started/slice.jpeg" /></a>
     </td>
     <td width="60%">
-      <h3>The Unios Project by Electric Coffin</h3>
-      <p>Explore the new Unios online community and their NFT project, which explores the intersection of art and technology. Minting is soon on Feb 16th.</p>
-      <a href="https://www.briangershon.com/blog/electric-coffin-unios-nft-project/">Read more...</a>
+      <h3>Getting Started Building NFT Contracts</h3>
+      <p>Develop, test and deploy an upgradeable NFT contract based on OpenZeppelin ERC721 Solidity framework and Hardhat tooling. Plus two real-world open-source NFT projects to learn from.</p>
+      <a href="https://www.briangershon.com/blog/web3-engineering-with-nfts-getting-started/">Read more...</a>
     </td>
   </tr>
 
   <tr>
     <td width="40%">
-    <a href="https://www.briangershon.com/blog/museum-of-museums-in-seattle/"><img src="https://www.briangershon.com/blog/museum-of-museums-in-seattle/slice.jpeg" /></a>
+    <a href="https://www.briangershon.com/blog/_template/"><img src="https://www.briangershon.com/blog/_template/slice.jpeg" /></a>
     </td>
     <td width="60%">
-      <h3>Seattle's Museum of Museums is a Delight</h3>
-      <p>Visit this contemporary art museum, currently featuring Electric Coffin's Future Machine exhibit, CAT TOWER!, and many others.</p>
-      <a href="https://www.briangershon.com/blog/museum-of-museums-in-seattle/">Read more...</a>
+      <h3>TITLE</h3>
+      <p>SUMMARY TEXT</p>
+      <a href="https://www.briangershon.com/blog/_template/">Read more...</a>
     </td>
   </tr>
 
