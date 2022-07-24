@@ -41,7 +41,7 @@ async function generateBlog() {
 `);
   });
 
-  // return result with last n recent blog posts
+  // return result with last 2 recent blog posts
   return `
 ## Recent Blog Posts
 
@@ -125,7 +125,7 @@ async function generateActiveRepos() {
     }
   });
 
-  const repoSummary = Object.entries(repos).slice(0, 10);
+  const repoSummary = Object.entries(repos).slice(0, 15);
 
   const results = [];
   repoSummary.forEach((repo) => {
@@ -149,7 +149,7 @@ async function generateActiveRepos() {
   return `
 ## Open-Source Contributions
 
-My most recent code contributions (limited to latest 10 repositories). View all PRs [as a Github search](https://github.com/pulls?q=is%3Aclosed+is%3Apr+author%3Abriangershon+archived%3Afalse+is%3Apublic).
+My most recent code contributions (limited to latest 15 repositories). View all PRs [as a Github search](https://github.com/pulls?q=is%3Aclosed+is%3Apr+author%3Abriangershon+archived%3Afalse+is%3Apublic).
 
 <table>
 ${results.join("\n")}
