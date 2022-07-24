@@ -32,7 +32,7 @@
 
 ## Open-Source Contributions
 
-My most recent code contributions (limited to latest 10 repositories). View all PRs [as a Github search](https://github.com/pulls?q=is%3Aclosed+is%3Apr+author%3Abriangershon+archived%3Afalse+is%3Apublic).
+My most recent code contributions (limited to latest 15 repositories). View all PRs [as a Github search](https://github.com/pulls?q=is%3Aclosed+is%3Apr+author%3Abriangershon+archived%3Afalse+is%3Apublic).
 
 <table>
 <tr>
@@ -104,6 +104,41 @@ My most recent code contributions (limited to latest 10 repositories). View all 
           <strong>BryceHaley/team7-blackfoot-chat-app</strong>
         </td>
         <td width="30%"><a href="https://github.com/BryceHaley/team7-blackfoot-chat-app/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
+          <strong>briangershon/react-minimal</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/react-minimal/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
+          <strong>0x006F/react-media-recorder</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/0x006F/react-media-recorder/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
+          <strong>briangershon/minecraft-server-motd-3t3n</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/minecraft-server-motd-3t3n/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
+          <strong>codazoda/neatcss</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/codazoda/neatcss/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
+          <strong>briangershon/npm-package-minimal</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/npm-package-minimal/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
       </tr>
 </table>
 
