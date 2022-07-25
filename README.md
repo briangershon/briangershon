@@ -38,9 +38,9 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
-          <strong>briangershon/cog-solana-token</strong>
+          <strong>briangershon/create-solana-token</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/cog-solana-token/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/create-solana-token/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
       </tr>
 <tr>
         <td width="
