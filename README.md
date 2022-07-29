@@ -38,6 +38,20 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>briangershon/nextjs-starter</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/nextjs-starter/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
+          <strong>briangershon/uniswap-tutorial</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/uniswap-tutorial/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>briangershon/create-solana-token</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/create-solana-token/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
@@ -126,20 +140,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
         </td>
         <td width="30%"><a href="https://github.com/briangershon/minecraft-server-motd-3t3n/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
       </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>codazoda/neatcss</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/codazoda/neatcss/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/npm-package-minimal</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/npm-package-minimal/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
-      </tr>
 </table>
 
 
@@ -148,6 +148,12 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 Find configuration ideas or use as a foundation for your next project. View as a [Github search](https://github.com/search?o=desc&q=topic%3Astarter-template+user%3Abriangershon+is%3Apublic+archived%3Afalse&s=updated&type=Repositories).
 
 <table>
+<tr>
+        <td width="30%">
+          <strong><a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a></strong>
+        </td>
+        <td width="70%">Starter template for Next.js, with TypeScript and tailwindcss.</td>
+      </tr>
 <tr>
         <td width="30%">
           <strong><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a></strong>
@@ -165,12 +171,6 @@ Find configuration ideas or use as a foundation for your next project. View as a
           <strong><a href="https://github.com/briangershon/react-minimal">react-minimal</a></strong>
         </td>
         <td width="70%">ReactJS starter using Snowpack tooling. Supports ES6 modules, hot reloading and unit testing. Plus Github CI workflow.</td>
-      </tr>
-<tr>
-        <td width="30%">
-          <strong><a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a></strong>
-        </td>
-        <td width="70%">Starter template for Next.js with TypeScript.</td>
       </tr>
 <tr>
         <td width="30%">
