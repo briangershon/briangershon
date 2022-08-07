@@ -38,6 +38,20 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>briangershon/create-solana-token</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/create-solana-token/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
+          <strong>Developer-DAO/school-of-code</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/school-of-code/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>briangershon/nextjs-starter</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/nextjs-starter/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
@@ -48,13 +62,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
           <strong>briangershon/uniswap-tutorial</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/uniswap-tutorial/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/create-solana-token</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/create-solana-token/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
       </tr>
 <tr>
         <td width="
@@ -132,13 +139,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
           <strong>0x006F/react-media-recorder</strong>
         </td>
         <td width="30%"><a href="https://github.com/0x006F/react-media-recorder/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/minecraft-server-motd-3t3n</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/minecraft-server-motd-3t3n/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
       </tr>
 </table>
 
