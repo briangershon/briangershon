@@ -38,16 +38,16 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
-          <strong>briangershon/create-solana-token</strong>
+          <strong>Developer-DAO/school-of-code</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/create-solana-token/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/school-of-code/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
       </tr>
 <tr>
         <td width="
         70%">
-          <strong>Developer-DAO/school-of-code</strong>
+          <strong>briangershon/create-solana-token</strong>
         </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/school-of-code/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/create-solana-token/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
       </tr>
 <tr>
         <td width="
