@@ -47,7 +47,7 @@ My most recent code contributions (limited to latest 15 repositories). View all 
         70%">
           <strong>briangershon/create-solana-token</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/create-solana-token/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/create-solana-token/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">4 PRs</a></td>
       </tr>
 <tr>
         <td width="
