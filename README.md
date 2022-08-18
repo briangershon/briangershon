@@ -38,6 +38,13 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>briangershon/openzeppelin-erc721-upgradeable</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>Developer-DAO/school-of-code</strong>
         </td>
         <td width="30%"><a href="https://github.com/Developer-DAO/school-of-code/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
@@ -69,13 +76,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
           <strong>briangershon/solana-clicker-game</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/solana-clicker-game/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">14 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/openzeppelin-erc721-upgradeable</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
       </tr>
 <tr>
         <td width="
@@ -150,15 +150,15 @@ Find configuration ideas or use as a foundation for your next project. View as a
 <table>
 <tr>
         <td width="30%">
-          <strong><a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a></strong>
-        </td>
-        <td width="70%">Starter template for Next.js, with TypeScript, tailwindcss and daisyUI.</td>
-      </tr>
-<tr>
-        <td width="30%">
           <strong><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a></strong>
         </td>
         <td width="70%">Develop, test and deploy an upgradeable NFT contract based on OpenZeppelin ERC721 Solidity framework and Hardhat development environment. Deploy to any EVM blockchain.</td>
+      </tr>
+<tr>
+        <td width="30%">
+          <strong><a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a></strong>
+        </td>
+        <td width="70%">Starter template for Next.js, with TypeScript, tailwindcss and daisyUI.</td>
       </tr>
 <tr>
         <td width="30%">
