@@ -38,16 +38,23 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
-          <strong>briangershon/openzeppelin-erc721-upgradeable</strong>
+          <strong>briangershon/solana-clicker-game</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/solana-clicker-game/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">15 PRs</a></td>
       </tr>
 <tr>
         <td width="
         70%">
           <strong>Developer-DAO/school-of-code</strong>
         </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/school-of-code/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/school-of-code/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">6 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
+          <strong>briangershon/openzeppelin-erc721-upgradeable</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
       </tr>
 <tr>
         <td width="
@@ -69,13 +76,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
           <strong>briangershon/uniswap-tutorial</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/uniswap-tutorial/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/solana-clicker-game</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/solana-clicker-game/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">14 PRs</a></td>
       </tr>
 <tr>
         <td width="
