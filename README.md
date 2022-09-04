@@ -38,6 +38,13 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>Developer-DAO/school-of-code</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/school-of-code/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">7 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>briangershon/openzeppelin-erc721-upgradeable</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
@@ -48,13 +55,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
           <strong>briangershon/solana-clicker-game</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/solana-clicker-game/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">15 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>Developer-DAO/school-of-code</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/school-of-code/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">6 PRs</a></td>
       </tr>
 <tr>
         <td width="
