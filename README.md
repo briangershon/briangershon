@@ -38,9 +38,9 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
-          <strong>Developer-DAO/school-of-code</strong>
+          <strong>Developer-DAO/academy</strong>
         </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/school-of-code/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">7 PRs</a></td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">7 PRs</a></td>
       </tr>
 <tr>
         <td width="
