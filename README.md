@@ -150,6 +150,12 @@ Find configuration ideas or use as a foundation for your next project. View as a
 <table>
 <tr>
         <td width="30%">
+          <strong><a href="https://github.com/briangershon/solana-anchor-client-start">solana-anchor-client-start</a></strong>
+        </td>
+        <td width="70%">This project demonstrates the TypeScript code needed to call a live deployed Solana program built with the Anchor framework.</td>
+      </tr>
+<tr>
+        <td width="30%">
           <strong><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a></strong>
         </td>
         <td width="70%">Develop, test and deploy an upgradeable NFT contract based on OpenZeppelin ERC721 Solidity framework and Hardhat development environment. Deploy to any EVM blockchain.</td>
@@ -178,13 +184,7 @@ Find configuration ideas or use as a foundation for your next project. View as a
         </td>
         <td width="70%">Create a new Glitch project by remixing this on glitch.com/~glitch-minimal</td>
       </tr>
-<tr>
-        <td width="30%">
-          <strong><a href="https://github.com/briangershon/typescript-webpack-starter">typescript-webpack-starter</a></strong>
-        </td>
-        <td width="70%">JavaScript starter with TypeScript and webpack. Plus Jest and Github CI.</td>
-      </tr>
-<tr><td width="30%">&nbsp;</td><td width="70%">6 more:  <a href="https://github.com/briangershon/npm-package-minimal">npm-package-minimal</a>, <a href="https://github.com/briangershon/eleventy-minimal">eleventy-minimal</a>, <a href="https://github.com/briangershon/vanilla-js-minimal">vanilla-js-minimal</a>, <a href="https://github.com/briangershon/minecraft-plugin">minecraft-plugin</a>, <a href="https://github.com/briangershon/threejs-minimal">threejs-minimal</a>, <a href="https://github.com/briangershon/nodejs-minimal">nodejs-minimal</a></td></tr>
+<tr><td width="30%">&nbsp;</td><td width="70%">7 more:  <a href="https://github.com/briangershon/typescript-webpack-starter">typescript-webpack-starter</a>, <a href="https://github.com/briangershon/npm-package-minimal">npm-package-minimal</a>, <a href="https://github.com/briangershon/eleventy-minimal">eleventy-minimal</a>, <a href="https://github.com/briangershon/vanilla-js-minimal">vanilla-js-minimal</a>, <a href="https://github.com/briangershon/minecraft-plugin">minecraft-plugin</a>, <a href="https://github.com/briangershon/threejs-minimal">threejs-minimal</a>, <a href="https://github.com/briangershon/nodejs-minimal">nodejs-minimal</a></td></tr>
 </table>
 
 ## Miscellaneous
