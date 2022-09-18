@@ -38,16 +38,23 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>briangershon/nextjs-starter</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/nextjs-starter/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">6 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>Developer-DAO/academy</strong>
         </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">7 PRs</a></td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">9 PRs</a></td>
       </tr>
 <tr>
         <td width="
         70%">
           <strong>briangershon/openzeppelin-erc721-upgradeable</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">4 PRs</a></td>
       </tr>
 <tr>
         <td width="
@@ -62,13 +69,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
           <strong>briangershon/create-solana-token</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/create-solana-token/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">4 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/nextjs-starter</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/nextjs-starter/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
       </tr>
 <tr>
         <td width="
@@ -150,21 +150,21 @@ Find configuration ideas or use as a foundation for your next project. View as a
 <table>
 <tr>
         <td width="30%">
-          <strong><a href="https://github.com/briangershon/solana-anchor-client-start">solana-anchor-client-start</a></strong>
+          <strong><a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a></strong>
         </td>
-        <td width="70%">This project demonstrates the TypeScript code needed to call a live deployed Solana program built with the Anchor framework.</td>
+        <td width="70%">Starter template for Next.js, with TypeScript, tailwindcss and daisyUI.</td>
       </tr>
 <tr>
         <td width="30%">
           <strong><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a></strong>
         </td>
-        <td width="70%">Develop, test and deploy an upgradeable NFT contract based on OpenZeppelin ERC721 Solidity framework and Hardhat development environment. Deploy to any EVM blockchain.</td>
+        <td width="70%">Develop, test and deploy an upgradeable NFT contract based on OpenZeppelin ERC721 Solidity framework and Hardhat development environment. Deploy to any EVM blockchain. TypeScript.</td>
       </tr>
 <tr>
         <td width="30%">
-          <strong><a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a></strong>
+          <strong><a href="https://github.com/briangershon/solana-anchor-client-start">solana-anchor-client-start</a></strong>
         </td>
-        <td width="70%">Starter template for Next.js, with TypeScript, tailwindcss and daisyUI.</td>
+        <td width="70%">This project demonstrates the TypeScript code needed to call a live deployed Solana program built with the Anchor framework.</td>
       </tr>
 <tr>
         <td width="30%">
