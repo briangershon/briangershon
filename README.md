@@ -38,16 +38,16 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
-          <strong>briangershon/nextjs-starter</strong>
+          <strong>Developer-DAO/academy</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/nextjs-starter/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">6 PRs</a></td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">12 PRs</a></td>
       </tr>
 <tr>
         <td width="
         70%">
-          <strong>Developer-DAO/academy</strong>
+          <strong>briangershon/nextjs-starter</strong>
         </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">9 PRs</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/nextjs-starter/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">6 PRs</a></td>
       </tr>
 <tr>
         <td width="
