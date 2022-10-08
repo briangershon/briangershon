@@ -4,10 +4,7 @@
 <table>
 
   <tr>
-    <td width="40%">
-    <a href="https://www.briangershon.com/blog/web3-engineering-with-nfts-getting-started/"><img src="https://www.briangershon.com/blog/web3-engineering-with-nfts-getting-started/slice.jpeg" /></a>
-    </td>
-    <td width="60%">
+    <td width="100%">
       <h3>Getting Started Building NFT Contracts</h3>
       <p>Develop, test and deploy an upgradeable NFT contract based on OpenZeppelin ERC721 Solidity framework and Hardhat tooling. Plus two real-world open-source NFT projects to learn from.</p>
       <a href="https://www.briangershon.com/blog/web3-engineering-with-nfts-getting-started/">Read more...</a>
@@ -15,10 +12,7 @@
   </tr>
 
   <tr>
-    <td width="40%">
-    <a href="https://www.briangershon.com/blog/nft-web3-kickstart-show/"><img src="https://www.briangershon.com/blog/nft-web3-kickstart-show/slice.jpeg" /></a>
-    </td>
-    <td width="60%">
+    <td width="100%">
       <h3>NFT (on Twitch)</h3>
       <p>An overview of NFTs, a Q&A session, and helpful engineering resources for getting started with NFT development on Ethereum, Polygon and other EVM blockchains.</p>
       <a href="https://www.briangershon.com/blog/nft-web3-kickstart-show/">Read more...</a>
@@ -26,11 +20,11 @@
   </tr>
 
   <tr>
-    <td width="40%">&nbsp;</td><td width="60%">Read more at <a href="https://www.briangershon.com/blog/">briangershon/blog</a></td>
+    <td width="100%">Read more at <a href="https://www.briangershon.com/blog/">briangershon/blog</a></td>
   </tr>
 </table>
 
-## Open-Source Contributions
+## Open-Source Projects
 
 My most recent code contributions (limited to latest 15 repositories). View all PRs [as a Github search](https://github.com/pulls?q=is%3Aclosed+is%3Apr+author%3Abriangershon+archived%3Afalse+is%3Apublic).
 
@@ -38,16 +32,16 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
-          <strong>pogdigital/pog-flip</strong>
+          <strong>Developer-DAO/academy</strong>
         </td>
-        <td width="30%"><a href="https://github.com/pogdigital/pog-flip/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">17 PRs</a></td>
       </tr>
 <tr>
         <td width="
         70%">
-          <strong>Developer-DAO/academy</strong>
+          <strong>pogdigital/pog-flip</strong>
         </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">16 PRs</a></td>
+        <td width="30%"><a href="https://github.com/pogdigital/pog-flip/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
       </tr>
 <tr>
         <td width="
