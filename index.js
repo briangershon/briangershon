@@ -29,10 +29,7 @@ async function generateBlog() {
 
     result.push(`
   <tr>
-    <td width="40%">
-    <a href="${link}"><img src="${link}slice.jpeg" /></a>
-    </td>
-    <td width="60%">
+    <td width="100%">
       <h3>${title}</h3>
       <p>${description}</p>
       <a href="${link}">Read more...</a>
@@ -48,7 +45,7 @@ async function generateBlog() {
 <table>
 ${result.slice(-2).reverse().join("")}
   <tr>
-    <td width="40%">&nbsp;</td><td width="60%">Read more at <a href="https://www.briangershon.com/blog/">briangershon/blog</a></td>
+    <td width="100%">Read more at <a href="https://www.briangershon.com/blog/">briangershon/blog</a></td>
   </tr>
 </table>`;
 }
@@ -147,7 +144,7 @@ async function generateActiveRepos() {
   });
 
   return `
-## Open-Source Contributions
+## Open-Source Projects
 
 My most recent code contributions (limited to latest 15 repositories). View all PRs [as a Github search](https://github.com/pulls?q=is%3Aclosed+is%3Apr+author%3Abriangershon+archived%3Afalse+is%3Apublic).
 
