@@ -34,7 +34,7 @@ My most recent code contributions (limited to latest 15 repositories). View all 
         70%">
           <strong>pogdigital/pog-flip</strong>
         </td>
-        <td width="30%"><a href="https://github.com/pogdigital/pog-flip/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">4 PRs</a></td>
+        <td width="30%"><a href="https://github.com/pogdigital/pog-flip/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">6 PRs</a></td>
       </tr>
 <tr>
         <td width="
