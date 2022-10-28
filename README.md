@@ -41,7 +41,7 @@ My most recent code contributions (limited to latest 15 repositories). View all 
         70%">
           <strong>Developer-DAO/academy</strong>
         </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">17 PRs</a></td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">18 PRs</a></td>
       </tr>
 <tr>
         <td width="
