@@ -32,16 +32,16 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
-          <strong>pogdigital/pog-flip</strong>
+          <strong>Developer-DAO/academy</strong>
         </td>
-        <td width="30%"><a href="https://github.com/pogdigital/pog-flip/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">6 PRs</a></td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">19 PRs</a></td>
       </tr>
 <tr>
         <td width="
         70%">
-          <strong>Developer-DAO/academy</strong>
+          <strong>pogdigital/pog-flip</strong>
         </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">18 PRs</a></td>
+        <td width="30%"><a href="https://github.com/pogdigital/pog-flip/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">6 PRs</a></td>
       </tr>
 <tr>
         <td width="
