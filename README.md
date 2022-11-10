@@ -5,17 +5,17 @@
 
   <tr>
     <td width="100%">
-      <h3>Getting Started Building NFT Contracts</h3>
-      <p>Develop, test and deploy an upgradeable NFT contract based on OpenZeppelin ERC721 Solidity framework and Hardhat tooling. Plus two real-world open-source NFT projects to learn from.</p>
-      <a href="https://www.briangershon.com/blog/web3-engineering-with-nfts-getting-started/">Read more...</a>
+      <h3>Tales of Tailwind CSS</h3>
+      <p>After some doubts, I gave Tailwind CSS a try and discovered a new love for styling my web applications. I'll discuss some reasons you'll like it, and also introduce component frameworks built on Tailwind.</p>
+      <a href="https://www.briangershon.com/blog/tales-of-tailwindcss/">Read more...</a>
     </td>
   </tr>
 
   <tr>
     <td width="100%">
-      <h3>NFT (on Twitch)</h3>
-      <p>An overview of NFTs, a Q&A session, and helpful engineering resources for getting started with NFT development on Ethereum, Polygon and other EVM blockchains.</p>
-      <a href="https://www.briangershon.com/blog/nft-web3-kickstart-show/">Read more...</a>
+      <h3>Getting Started Building NFT Contracts</h3>
+      <p>Develop, test and deploy an upgradeable NFT contract based on OpenZeppelin ERC721 Solidity framework and Hardhat tooling. Plus two real-world open-source NFT projects to learn from.</p>
+      <a href="https://www.briangershon.com/blog/web3-engineering-with-nfts-getting-started/">Read more...</a>
     </td>
   </tr>
 
