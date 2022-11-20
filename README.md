@@ -146,7 +146,7 @@ Find configuration ideas or use as a foundation for your next project. View as a
         <td width="30%">
           <strong><a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a></strong>
         </td>
-        <td width="70%">Starter template for Next.js, with TypeScript, tailwindcss and daisyUI.</td>
+        <td width="70%">Starter template for Next.js v13, with TypeScript, tailwindcss and daisyUI.</td>
       </tr>
 <tr>
         <td width="30%">
