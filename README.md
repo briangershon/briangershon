@@ -144,6 +144,12 @@ Find configuration ideas or use as a foundation for your next project. View as a
 <table>
 <tr>
         <td width="30%">
+          <strong><a href="https://github.com/briangershon/react-rainbow-tailwind">react-rainbow-tailwind</a></strong>
+        </td>
+        <td width="70%">React + RainbowKit + Tailwind CSS</td>
+      </tr>
+<tr>
+        <td width="30%">
           <strong><a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a></strong>
         </td>
         <td width="70%">Starter template for Next.js v13, with TypeScript, tailwindcss and daisyUI.</td>
@@ -172,13 +178,7 @@ Find configuration ideas or use as a foundation for your next project. View as a
         </td>
         <td width="70%">ReactJS starter using Snowpack tooling. Supports ES6 modules, hot reloading and unit testing. Plus Github CI workflow.</td>
       </tr>
-<tr>
-        <td width="30%">
-          <strong><a href="https://github.com/briangershon/glitch-minimal">glitch-minimal</a></strong>
-        </td>
-        <td width="70%">Create a new Glitch project by remixing this on glitch.com/~glitch-minimal</td>
-      </tr>
-<tr><td width="30%">&nbsp;</td><td width="70%">7 more:  <a href="https://github.com/briangershon/typescript-webpack-starter">typescript-webpack-starter</a>, <a href="https://github.com/briangershon/npm-package-minimal">npm-package-minimal</a>, <a href="https://github.com/briangershon/eleventy-minimal">eleventy-minimal</a>, <a href="https://github.com/briangershon/vanilla-js-minimal">vanilla-js-minimal</a>, <a href="https://github.com/briangershon/minecraft-plugin">minecraft-plugin</a>, <a href="https://github.com/briangershon/threejs-minimal">threejs-minimal</a>, <a href="https://github.com/briangershon/nodejs-minimal">nodejs-minimal</a></td></tr>
+<tr><td width="30%">&nbsp;</td><td width="70%">8 more:  <a href="https://github.com/briangershon/glitch-minimal">glitch-minimal</a>, <a href="https://github.com/briangershon/typescript-webpack-starter">typescript-webpack-starter</a>, <a href="https://github.com/briangershon/npm-package-minimal">npm-package-minimal</a>, <a href="https://github.com/briangershon/eleventy-minimal">eleventy-minimal</a>, <a href="https://github.com/briangershon/vanilla-js-minimal">vanilla-js-minimal</a>, <a href="https://github.com/briangershon/minecraft-plugin">minecraft-plugin</a>, <a href="https://github.com/briangershon/threejs-minimal">threejs-minimal</a>, <a href="https://github.com/briangershon/nodejs-minimal">nodejs-minimal</a></td></tr>
 </table>
 
 ## Miscellaneous
