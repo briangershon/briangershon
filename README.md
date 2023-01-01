@@ -32,6 +32,13 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>briangershon/ecdsa-node</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/ecdsa-node/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>briangershon/metatokens</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/metatokens/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
@@ -126,13 +133,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
           <strong>briangershon/planning-poker</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/planning-poker/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">13 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>BryceHaley/team7-blackfoot-chat-app</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/BryceHaley/team7-blackfoot-chat-app/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
       </tr>
 </table>
 
