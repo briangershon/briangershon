@@ -32,6 +32,13 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>briangershon/openzeppelin-erc721-upgradeable</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">5 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>briangershon/ecdsa-node</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/ecdsa-node/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
@@ -63,13 +70,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
           <strong>pogdigital/pog-flip</strong>
         </td>
         <td width="30%"><a href="https://github.com/pogdigital/pog-flip/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">6 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/openzeppelin-erc721-upgradeable</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">4 PRs</a></td>
       </tr>
 <tr>
         <td width="
@@ -144,6 +144,12 @@ Find configuration ideas or use as a foundation for your next project. View as a
 <table>
 <tr>
         <td width="30%">
+          <strong><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a></strong>
+        </td>
+        <td width="70%">Develop, test and deploy an upgradeable NFT contract based on OpenZeppelin ERC721 Solidity framework and Hardhat development environment. Deploy to any EVM blockchain. TypeScript.</td>
+      </tr>
+<tr>
+        <td width="30%">
           <strong><a href="https://github.com/briangershon/react-rainbow-tailwind">react-rainbow-tailwind</a></strong>
         </td>
         <td width="70%">React + RainbowKit + Tailwind CSS</td>
@@ -153,12 +159,6 @@ Find configuration ideas or use as a foundation for your next project. View as a
           <strong><a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a></strong>
         </td>
         <td width="70%">Starter template for Next.js v13, with TypeScript, tailwindcss and daisyUI.</td>
-      </tr>
-<tr>
-        <td width="30%">
-          <strong><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a></strong>
-        </td>
-        <td width="70%">Develop, test and deploy an upgradeable NFT contract based on OpenZeppelin ERC721 Solidity framework and Hardhat development environment. Deploy to any EVM blockchain. TypeScript.</td>
       </tr>
 <tr>
         <td width="30%">
