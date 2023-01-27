@@ -34,7 +34,14 @@ My most recent code contributions (limited to latest 15 repositories). View all 
         70%">
           <strong>briangershon/openzeppelin-erc721-upgradeable</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">5 PRs</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">6 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
+          <strong>briangershon/metatokens</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/metatokens/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">4 PRs</a></td>
       </tr>
 <tr>
         <td width="
@@ -42,13 +49,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
           <strong>briangershon/ecdsa-node</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/ecdsa-node/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/metatokens</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/metatokens/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
       </tr>
 <tr>
         <td width="
