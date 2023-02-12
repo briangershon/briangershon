@@ -32,6 +32,13 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>Developer-DAO/academy</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">21 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>briangershon/nextjs-starter</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/nextjs-starter/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">8 PRs</a></td>
@@ -56,13 +63,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
           <strong>briangershon/ecdsa-node</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/ecdsa-node/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>Developer-DAO/academy</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">19 PRs</a></td>
       </tr>
 <tr>
         <td width="
