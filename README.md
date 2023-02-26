@@ -32,16 +32,23 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
-          <strong>Developer-DAO/academy</strong>
+          <strong>briangershon/nextjs-starter</strong>
         </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">21 PRs</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/nextjs-starter/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">9 PRs</a></td>
       </tr>
 <tr>
         <td width="
         70%">
-          <strong>briangershon/nextjs-starter</strong>
+          <strong>Developer-DAO/developer-dao-dot-com</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/nextjs-starter/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">8 PRs</a></td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/developer-dao-dot-com/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
+          <strong>Developer-DAO/academy</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">21 PRs</a></td>
       </tr>
 <tr>
         <td width="
@@ -55,7 +62,7 @@ My most recent code contributions (limited to latest 15 repositories). View all 
         70%">
           <strong>briangershon/metatokens</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/metatokens/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">4 PRs</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/metatokens/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">5 PRs</a></td>
       </tr>
 <tr>
         <td width="
@@ -98,13 +105,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
           <strong>briangershon/openzeppelin-solidity-hardhat-playground</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/openzeppelin-solidity-hardhat-playground/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>Developer-DAO/ukraine-donation-nft</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/ukraine-donation-nft/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">16 PRs</a></td>
       </tr>
 <tr>
         <td width="
