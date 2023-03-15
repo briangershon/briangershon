@@ -32,6 +32,20 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>twilson63/permaweb-cookbook</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/twilson63/permaweb-cookbook/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
+          <strong>twilson63/permapages</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/twilson63/permapages/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>Developer-DAO/academy</strong>
         </td>
         <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">23 PRs</a></td>
@@ -119,20 +133,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
           <strong>audience-labs/solana-audience-protocol</strong>
         </td>
         <td width="30%"><a href="https://github.com/audience-labs/solana-audience-protocol/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">5 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>Developer-DAO/pixel-avatars</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/pixel-avatars/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">16 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/planning-poker</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/planning-poker/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">13 PRs</a></td>
       </tr>
 </table>
 
