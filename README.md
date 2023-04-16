@@ -32,6 +32,27 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>Developer-DAO/academy</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">24 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
+          <strong>briangershon/openzeppelin-erc20-upgradeable</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc20-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
+          <strong>briangershon/openzeppelin-erc721-upgradeable</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">8 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>twilson63/permaweb-cookbook</strong>
         </td>
         <td width="30%"><a href="https://github.com/twilson63/permaweb-cookbook/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">4 PRs</a></td>
@@ -46,13 +67,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
-          <strong>Developer-DAO/academy</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">23 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
           <strong>briangershon/nextjs-starter</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/nextjs-starter/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">9 PRs</a></td>
@@ -60,16 +74,16 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
-          <strong>Developer-DAO/developer-dao-dot-com</strong>
+          <strong>cloudflare/workers-sdk</strong>
         </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/developer-dao-dot-com/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+        <td width="30%"><a href="https://github.com/cloudflare/workers-sdk/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
       </tr>
 <tr>
         <td width="
         70%">
-          <strong>briangershon/openzeppelin-erc721-upgradeable</strong>
+          <strong>Developer-DAO/developer-dao-dot-com</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">6 PRs</a></td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/developer-dao-dot-com/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
       </tr>
 <tr>
         <td width="
@@ -120,20 +134,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
         </td>
         <td width="30%"><a href="https://github.com/briangershon/openzeppelin-solidity-hardhat-playground/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
       </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/briangershon</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/briangershon/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">4 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>audience-labs/solana-audience-protocol</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/audience-labs/solana-audience-protocol/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">5 PRs</a></td>
-      </tr>
 </table>
 
 
@@ -144,15 +144,15 @@ Find configuration ideas or use as a foundation for your next project. View as a
 <table>
 <tr>
         <td width="30%">
-          <strong><a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a></strong>
-        </td>
-        <td width="70%">Starter template for Next.js v13, with TypeScript, tailwindcss and daisyUI.</td>
-      </tr>
-<tr>
-        <td width="30%">
           <strong><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a></strong>
         </td>
         <td width="70%">Develop, test and deploy an upgradeable NFT contract based on OpenZeppelin ERC721 Solidity framework and Hardhat development environment. Deploy to any EVM blockchain. TypeScript.</td>
+      </tr>
+<tr>
+        <td width="30%">
+          <strong><a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a></strong>
+        </td>
+        <td width="70%">Starter template for Next.js v13, with TypeScript, tailwindcss and daisyUI.</td>
       </tr>
 <tr>
         <td width="30%">
