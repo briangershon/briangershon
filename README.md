@@ -144,15 +144,15 @@ Find configuration ideas or use as a foundation for your next project. View as a
 <table>
 <tr>
         <td width="30%">
-          <strong><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a></strong>
+          <strong><a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a></strong>
         </td>
-        <td width="70%">Develop, test and deploy an upgradeable NFT contract based on OpenZeppelin ERC721 Solidity framework and Hardhat development environment. Deploy to any EVM blockchain. TypeScript.</td>
+        <td width="70%">Starter template for Next.js v13 (using new app approach). With TypeScript, tailwindcss and daisyUI.</td>
       </tr>
 <tr>
         <td width="30%">
-          <strong><a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a></strong>
+          <strong><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a></strong>
         </td>
-        <td width="70%">Starter template for Next.js v13, with TypeScript, tailwindcss and daisyUI.</td>
+        <td width="70%">Develop, test and deploy an upgradeable NFT contract based on OpenZeppelin ERC721 Solidity framework and Hardhat development environment. Deploy to any EVM blockchain. TypeScript.</td>
       </tr>
 <tr>
         <td width="30%">
