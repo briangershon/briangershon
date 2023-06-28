@@ -26,7 +26,7 @@
 
 ## Open-Source Projects
 
-My most recent code contributions (limited to latest 15 repositories). View all PRs [as a Github search](https://github.com/pulls?q=is%3Aclosed+is%3Apr+author%3Abriangershon+archived%3Afalse+is%3Apublic).
+My most recent code contributions (limited to latest 15 repositories). View all PRs [as a Github search](https://github.com/search?q=is%3Apr+author%3Abriangershon).
 
 <table>
 <tr>
