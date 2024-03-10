@@ -32,16 +32,16 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
-          <strong>Developer-DAO/academy-turbo</strong>
+          <strong>Developer-DAO/D_D-Academy-lesson-5-frontend-rainbowkit-starter</strong>
         </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/academy-turbo/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/D_D-Academy-lesson-5-frontend-rainbowkit-starter/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
       </tr>
 <tr>
         <td width="
         70%">
-          <strong>Developer-DAO/D_D-Academy-lesson-5-frontend-rainbowkit-starter</strong>
+          <strong>Developer-DAO/academy-turbo</strong>
         </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/D_D-Academy-lesson-5-frontend-rainbowkit-starter/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/academy-turbo/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
       </tr>
 <tr>
         <td width="
