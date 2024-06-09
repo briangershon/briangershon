@@ -32,6 +32,13 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>Developer-DAO/academy-turbo</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/Developer-DAO/academy-turbo/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">4 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>Developer-DAO/D_D-Academy-lesson-5-frontend-rainbowkit-starter</strong>
         </td>
         <td width="30%"><a href="https://github.com/Developer-DAO/D_D-Academy-lesson-5-frontend-rainbowkit-starter/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
@@ -49,13 +56,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
           <strong>Bittrees-Technology/bittrees-research-ui</strong>
         </td>
         <td width="30%"><a href="https://github.com/Bittrees-Technology/bittrees-research-ui/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">21 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>Developer-DAO/academy-turbo</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/academy-turbo/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
       </tr>
 <tr>
         <td width="
