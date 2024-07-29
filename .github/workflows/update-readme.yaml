@@ -14,7 +14,7 @@ jobs:
       - run: npm run generate
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update README.md (bot)
           commit_user_name: Github Action
