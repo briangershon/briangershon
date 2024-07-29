@@ -1,29 +1,4 @@
 
-## Recent Blog Posts
-
-<table>
-
-  <tr>
-    <td width="100%">
-      <h3>Tales of Tailwind CSS</h3>
-      <p>After some doubts, I gave Tailwind CSS a try and discovered a new love for styling my web applications. I'll discuss some reasons you'll like it, and also introduce component frameworks built on Tailwind.</p>
-      <a href="https://www.briangershon.com/blog/tales-of-tailwindcss/">Read more...</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="100%">
-      <h3>Getting Started Building NFT Contracts</h3>
-      <p>Develop, test and deploy an upgradeable NFT contract based on OpenZeppelin ERC721 Solidity framework and Hardhat tooling. Plus two real-world open-source NFT projects to learn from.</p>
-      <a href="https://www.briangershon.com/blog/web3-engineering-with-nfts-getting-started/">Read more...</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="100%">Read more at <a href="https://www.briangershon.com/blog/">briangershon/blog</a></td>
-  </tr>
-</table>
-
 ## Open-Source Projects
 
 My most recent code contributions (limited to latest 15 repositories). View all PRs [as a Github search](https://github.com/search?q=is%3Apr+author%3Abriangershon).
