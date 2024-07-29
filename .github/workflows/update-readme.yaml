@@ -3,20 +3,18 @@ on:
   workflow_dispatch:
   push:
   schedule:
-    - cron: '30 6 * * 0' # 10:30p PST on Sunday
+    - cron: "30 6 * * 0" # 10:30p PST on Sunday
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v2
-      with:
-        node-version: '20.x'
-    - run: npm install
-    - run: npm run generate
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: Update README.md (bot)
-        commit_user_name: Github Action
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+      - run: npm install
+      - run: npm run generate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update README.md (bot)
+          commit_user_name: Github Action
