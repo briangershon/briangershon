@@ -144,7 +144,7 @@ async function generateActiveRepos() {
   });
 
   return `
-## Open-Source Projects
+## Open-Source Contributions
 
 My most recent code contributions (limited to latest 15 repositories). View all PRs [as a Github search](https://github.com/search?q=is%3Apr+author%3Abriangershon).
 
