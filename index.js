@@ -155,7 +155,7 @@ ${results.join("\n")}
 }
 
 async function generatePage() {
-  console.log(await generateBlog());
+  // console.log(await generateBlog());
   console.log(await generateActiveRepos());
   console.log(await generateStarterTemplateList());
   console.log(await generateStatic());
