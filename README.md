@@ -9,7 +9,7 @@ My most recent code contributions (limited to latest 15 repositories). View all 
         70%">
           <strong>briangershon/python-vscode-dev</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/python-vscode-dev/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/python-vscode-dev/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
       </tr>
 <tr>
         <td width="
@@ -153,7 +153,7 @@ Find configuration ideas or use as a foundation for your next project. View as a
         </td>
         <td width="70%">Node.js (v13.13+) starter with minimal dependencies. Support for ECMAScript modules, lint and unit testing. Plus Github CI workflow. Does not require Babel nor a bundler. Nice for cloud functions too.</td>
       </tr>
-<tr><td width="30%">&nbsp;</td><td width="70%">10 more:  <a href="https://github.com/briangershon/npm-package-minimal">npm-package-minimal</a>, <a href="https://github.com/briangershon/react-minimal">react-minimal</a>, <a href="https://github.com/briangershon/eleventy-minimal">eleventy-minimal</a>, <a href="https://github.com/briangershon/threejs-minimal">threejs-minimal</a>, <a href="https://github.com/briangershon/openzeppelin-solidity-hardhat-playground">openzeppelin-solidity-hardhat-playground</a>, <a href="https://github.com/briangershon/python-vscode-dev">python-vscode-dev</a>, <a href="https://github.com/briangershon/typescript-webpack-starter">typescript-webpack-starter</a>, <a href="https://github.com/briangershon/glitch-minimal">glitch-minimal</a>, <a href="https://github.com/briangershon/p5js-starter">p5js-starter</a>, <a href="https://github.com/briangershon/react-rainbow-tailwind">react-rainbow-tailwind</a></td></tr>
+<tr><td width="30%">&nbsp;</td><td width="70%">10 more:  <a href="https://github.com/briangershon/npm-package-minimal">npm-package-minimal</a>, <a href="https://github.com/briangershon/react-minimal">react-minimal</a>, <a href="https://github.com/briangershon/threejs-minimal">threejs-minimal</a>, <a href="https://github.com/briangershon/eleventy-minimal">eleventy-minimal</a>, <a href="https://github.com/briangershon/openzeppelin-solidity-hardhat-playground">openzeppelin-solidity-hardhat-playground</a>, <a href="https://github.com/briangershon/python-vscode-dev">python-vscode-dev</a>, <a href="https://github.com/briangershon/typescript-webpack-starter">typescript-webpack-starter</a>, <a href="https://github.com/briangershon/glitch-minimal">glitch-minimal</a>, <a href="https://github.com/briangershon/p5js-starter">p5js-starter</a>, <a href="https://github.com/briangershon/react-rainbow-tailwind">react-rainbow-tailwind</a></td></tr>
 </table>
 
 ## Miscellaneous
