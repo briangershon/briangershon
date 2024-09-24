@@ -7,6 +7,13 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>briangershon/langgraphjs-first-agent</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/langgraphjs-first-agent/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">5 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>briangershon/typescript-vscode-dev</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/typescript-vscode-dev/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
@@ -56,6 +63,13 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>briangershon/minecraft-plugin</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/minecraft-plugin/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>briangershon/p5js-starter</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/p5js-starter/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
@@ -94,20 +108,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
           <strong>twilson63/permaweb-cookbook</strong>
         </td>
         <td width="30%"><a href="https://github.com/twilson63/permaweb-cookbook/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">4 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>Bittrees-Technology/bittrees-research-contract</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/Bittrees-Technology/bittrees-research-contract/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>twilson63/permapages</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/twilson63/permapages/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
       </tr>
 </table>
 
