@@ -132,7 +132,7 @@ async function generateActiveRepos() {
       `<tr>
         <td width="
         70%">
-          <strong>${shortName}</strong>
+          <strong><a href="https://github.com/${shortName}">${shortName}</a></strong>
         </td>
         <td width="30%"><a href="${
           repo[0]
