@@ -7,6 +7,13 @@ My most recent code contributions (limited to latest 15 repositories). View all 
 <tr>
         <td width="
         70%">
+          <strong>briangershon/crawlee-playwright</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/crawlee-playwright/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>briangershon/hello-controlflow</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/hello-controlflow/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
@@ -101,13 +108,6 @@ My most recent code contributions (limited to latest 15 repositories). View all 
           <strong>briangershon/openzeppelin-erc20-upgradeable</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc20-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/openzeppelin-erc721-upgradeable</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">8 PRs</a></td>
       </tr>
 </table>
 
