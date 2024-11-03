@@ -122,7 +122,7 @@ async function generateActiveRepos() {
     }
   });
 
-  const repoSummary = Object.entries(repos).slice(0, 15);
+  const repoSummary = Object.entries(repos).slice(0, 20);
 
   const results = [];
   repoSummary.forEach((repo) => {
@@ -146,7 +146,7 @@ async function generateActiveRepos() {
   return `
 ## Open-Source Contributions
 
-My most recent code contributions (limited to latest 15 repositories). View all PRs [as a Github search](https://github.com/search?q=is%3Apr+author%3Abriangershon).
+My most recent code contributions, limited to 20 repositories, or [view all my PRs as a Github search](https://github.com/search?q=is%3Apr+author%3Abriangershon).
 
 <table>
 ${results.join("\n")}
