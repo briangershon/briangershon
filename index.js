@@ -60,7 +60,7 @@ async function generateStatic() {
 async function generateStarterTemplateList() {
   const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
   const q =
-    "topic:starter-template user:briangershon is:public archived:false sort:stars";
+    "topic:starter-template user:briangershon is:public archived:false sort:updated";
   const data = await octokit.rest.search.repos({
     q,
   });
