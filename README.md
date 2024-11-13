@@ -154,6 +154,18 @@ Find configuration ideas or use as a foundation for your next project. View as a
 <table>
 <tr>
         <td width="30%">
+          <strong><a href="https://github.com/briangershon/minimal-express-on-vercel">minimal-express-on-vercel</a></strong>
+        </td>
+        <td width="70%">Minimal Express v5 running on Vercel (with TypeScript)</td>
+      </tr>
+<tr>
+        <td width="30%">
+          <strong><a href="https://github.com/briangershon/hello-controlflow">hello-controlflow</a></strong>
+        </td>
+        <td width="70%">Play with ControlFlow Python framework for building agentic AI workflows. Uses `uv` Python package and project manager.</td>
+      </tr>
+<tr>
+        <td width="30%">
           <strong><a href="https://github.com/briangershon/npm-package-minimal">npm-package-minimal</a></strong>
         </td>
         <td width="70%">A starter template for building a TypeScript-based library module published (privately or publicly) to Github Packages in ESM module format. Includes vitest testing and Github Actions for publishing.</td>
@@ -163,12 +175,6 @@ Find configuration ideas or use as a foundation for your next project. View as a
           <strong><a href="https://github.com/briangershon/crawlee-playwright">crawlee-playwright</a></strong>
         </td>
         <td width="70%">Browser-based automations with Crawlee and Playwright using Vite tooling and TypeScript</td>
-      </tr>
-<tr>
-        <td width="30%">
-          <strong><a href="https://github.com/briangershon/hello-controlflow">hello-controlflow</a></strong>
-        </td>
-        <td width="70%">Play with ControlFlow Python framework for building agentic AI workflows. Uses `uv` Python package and project manager.</td>
       </tr>
 <tr>
         <td width="30%">
@@ -182,13 +188,7 @@ Find configuration ideas or use as a foundation for your next project. View as a
         </td>
         <td width="70%">Use a VSCode dev container as your virtual TypeScript development environment for Node apps.</td>
       </tr>
-<tr>
-        <td width="30%">
-          <strong><a href="https://github.com/briangershon/python-vscode-dev">python-vscode-dev</a></strong>
-        </td>
-        <td width="70%">A ready-to-go Python dev environment for LLM projects. Leverages devcontainers in VSCode for virtual environments. Sample LangChain and LangGraph code using OpenAI.</td>
-      </tr>
-<tr><td width="30%">&nbsp;</td><td width="70%">13 more:  <a href="https://github.com/briangershon/p5js-starter">p5js-starter</a>, <a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a>, <a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a>, <a href="https://github.com/briangershon/react-rainbow-tailwind">react-rainbow-tailwind</a>, <a href="https://github.com/briangershon/solana-anchor-client-start">solana-anchor-client-start</a>, <a href="https://github.com/briangershon/openzeppelin-solidity-hardhat-playground">openzeppelin-solidity-hardhat-playground</a>, <a href="https://github.com/briangershon/react-minimal">react-minimal</a>, <a href="https://github.com/briangershon/glitch-minimal">glitch-minimal</a>, <a href="https://github.com/briangershon/typescript-webpack-starter">typescript-webpack-starter</a>, <a href="https://github.com/briangershon/eleventy-minimal">eleventy-minimal</a>, <a href="https://github.com/briangershon/vanilla-js-minimal">vanilla-js-minimal</a>, <a href="https://github.com/briangershon/threejs-minimal">threejs-minimal</a>, <a href="https://github.com/briangershon/nodejs-minimal">nodejs-minimal</a></td></tr>
+<tr><td width="30%">&nbsp;</td><td width="70%">14 more:  <a href="https://github.com/briangershon/python-vscode-dev">python-vscode-dev</a>, <a href="https://github.com/briangershon/p5js-starter">p5js-starter</a>, <a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a>, <a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a>, <a href="https://github.com/briangershon/react-rainbow-tailwind">react-rainbow-tailwind</a>, <a href="https://github.com/briangershon/solana-anchor-client-start">solana-anchor-client-start</a>, <a href="https://github.com/briangershon/openzeppelin-solidity-hardhat-playground">openzeppelin-solidity-hardhat-playground</a>, <a href="https://github.com/briangershon/react-minimal">react-minimal</a>, <a href="https://github.com/briangershon/glitch-minimal">glitch-minimal</a>, <a href="https://github.com/briangershon/typescript-webpack-starter">typescript-webpack-starter</a>, <a href="https://github.com/briangershon/eleventy-minimal">eleventy-minimal</a>, <a href="https://github.com/briangershon/vanilla-js-minimal">vanilla-js-minimal</a>, <a href="https://github.com/briangershon/threejs-minimal">threejs-minimal</a>, <a href="https://github.com/briangershon/nodejs-minimal">nodejs-minimal</a></td></tr>
 </table>
 
 ## Miscellaneous
