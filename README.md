@@ -7,6 +7,13 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
 <tr>
         <td width="
         70%">
+          <strong>briangershon/bluesky-personify</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/bluesky-personify/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">10 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>briangershon/npm-package-minimal</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/npm-package-minimal/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">5 PRs</a></td>
@@ -137,13 +144,6 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
         </td>
         <td width="30%"><a href="https://github.com/twilson63/permaweb-cookbook/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">4 PRs</a></td>
       </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>Bittrees-Technology/bittrees-research-contract</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/Bittrees-Technology/bittrees-research-contract/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
-      </tr>
 </table>
 
 
@@ -188,7 +188,7 @@ Find configuration ideas or use as a foundation for your next project. View as a
         </td>
         <td width="70%">Use a VSCode dev container as your virtual TypeScript development environment for Node apps.</td>
       </tr>
-<tr><td width="30%">&nbsp;</td><td width="70%">14 more:  <a href="https://github.com/briangershon/python-vscode-dev">python-vscode-dev</a>, <a href="https://github.com/briangershon/p5js-starter">p5js-starter</a>, <a href="https://github.com/briangershon/nextjs-starter">nextjs-starter</a>, <a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a>, <a href="https://github.com/briangershon/react-rainbow-tailwind">react-rainbow-tailwind</a>, <a href="https://github.com/briangershon/solana-anchor-client-start">solana-anchor-client-start</a>, <a href="https://github.com/briangershon/openzeppelin-solidity-hardhat-playground">openzeppelin-solidity-hardhat-playground</a>, <a href="https://github.com/briangershon/react-minimal">react-minimal</a>, <a href="https://github.com/briangershon/glitch-minimal">glitch-minimal</a>, <a href="https://github.com/briangershon/typescript-webpack-starter">typescript-webpack-starter</a>, <a href="https://github.com/briangershon/eleventy-minimal">eleventy-minimal</a>, <a href="https://github.com/briangershon/vanilla-js-minimal">vanilla-js-minimal</a>, <a href="https://github.com/briangershon/threejs-minimal">threejs-minimal</a>, <a href="https://github.com/briangershon/nodejs-minimal">nodejs-minimal</a></td></tr>
+<tr><td width="30%">&nbsp;</td><td width="70%">13 more:  <a href="https://github.com/briangershon/python-vscode-dev">python-vscode-dev</a>, <a href="https://github.com/briangershon/p5js-starter">p5js-starter</a>, <a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a>, <a href="https://github.com/briangershon/react-rainbow-tailwind">react-rainbow-tailwind</a>, <a href="https://github.com/briangershon/solana-anchor-client-start">solana-anchor-client-start</a>, <a href="https://github.com/briangershon/openzeppelin-solidity-hardhat-playground">openzeppelin-solidity-hardhat-playground</a>, <a href="https://github.com/briangershon/react-minimal">react-minimal</a>, <a href="https://github.com/briangershon/glitch-minimal">glitch-minimal</a>, <a href="https://github.com/briangershon/typescript-webpack-starter">typescript-webpack-starter</a>, <a href="https://github.com/briangershon/eleventy-minimal">eleventy-minimal</a>, <a href="https://github.com/briangershon/vanilla-js-minimal">vanilla-js-minimal</a>, <a href="https://github.com/briangershon/threejs-minimal">threejs-minimal</a>, <a href="https://github.com/briangershon/nodejs-minimal">nodejs-minimal</a></td></tr>
 </table>
 
 ## Miscellaneous
