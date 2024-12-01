@@ -9,7 +9,7 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
         70%">
           <strong>briangershon/bluesky-personify</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/bluesky-personify/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">10 PRs</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/bluesky-personify/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">11 PRs</a></td>
       </tr>
 <tr>
         <td width="
