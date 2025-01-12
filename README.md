@@ -154,15 +154,15 @@ Find configuration ideas or use as a foundation for your next project. View as a
 <table>
 <tr>
         <td width="30%">
-          <strong><a href="https://github.com/briangershon/prompt-playground">prompt-playground</a></strong>
-        </td>
-        <td width="70%">Get started quickly with an LLM project in TypeScript. With testing and CI/CD.</td>
-      </tr>
-<tr>
-        <td width="30%">
           <strong><a href="https://github.com/briangershon/minimal-express-on-vercel">minimal-express-on-vercel</a></strong>
         </td>
         <td width="70%">Minimal Express v5 running on Vercel (with TypeScript)</td>
+      </tr>
+<tr>
+        <td width="30%">
+          <strong><a href="https://github.com/briangershon/prompt-playground">prompt-playground</a></strong>
+        </td>
+        <td width="70%">Get started quickly with an LLM project in TypeScript. With testing and CI/CD.</td>
       </tr>
 <tr>
         <td width="30%">
