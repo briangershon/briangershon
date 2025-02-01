@@ -7,6 +7,13 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
 <tr>
         <td width="
         70%">
+          <strong>briangershon/minimal-express-on-vercel</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/minimal-express-on-vercel/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>Bittrees-Technology/bittrees-research-ui</strong>
         </td>
         <td width="30%"><a href="https://github.com/Bittrees-Technology/bittrees-research-ui/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">22 PRs</a></td>
@@ -136,13 +143,6 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
           <strong>Developer-DAO/academy</strong>
         </td>
         <td width="30%"><a href="https://github.com/Developer-DAO/academy/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">24 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/openzeppelin-erc20-upgradeable</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/openzeppelin-erc20-upgradeable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
       </tr>
 </table>
 
