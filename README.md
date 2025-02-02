@@ -156,7 +156,7 @@ Find configuration ideas or use as a foundation for your next project. View as a
         <td width="30%">
           <strong><a href="https://github.com/briangershon/minimal-express-on-vercel">minimal-express-on-vercel</a></strong>
         </td>
-        <td width="70%">Minimal Express v5 running on Vercel (with TypeScript)</td>
+        <td width="70%">Starter template for Express v5. Vercel configuration.</td>
       </tr>
 <tr>
         <td width="30%">
