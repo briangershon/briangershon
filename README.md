@@ -7,6 +7,13 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
 <tr>
         <td width="
         70%">
+          <strong>briangershon/agent-workspace</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/agent-workspace/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>briangershon/agent-tools-at-arms-length</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/agent-tools-at-arms-length/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
@@ -137,13 +144,6 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
         </td>
         <td width="30%"><a href="https://github.com/Developer-DAO/academy-turbo/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">4 PRs</a></td>
       </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>Developer-DAO/D_D-Academy-lesson-5-frontend-rainbowkit-starter</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/Developer-DAO/D_D-Academy-lesson-5-frontend-rainbowkit-starter/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
-      </tr>
 </table>
 
 
@@ -152,6 +152,12 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
 Find configuration ideas or use as a foundation for your next project. View as a [Github search](https://github.com/search?o=desc&q=topic%3Astarter-template+user%3Abriangershon+is%3Apublic+archived%3Afalse&s=updated&type=Repositories).
 
 <table>
+<tr>
+        <td width="30%">
+          <strong><a href="https://github.com/briangershon/agent-workspace">agent-workspace</a></strong>
+        </td>
+        <td width="70%">A safe workspace for your AI agent projects.</td>
+      </tr>
 <tr>
         <td width="30%">
           <strong><a href="https://github.com/briangershon/minimal-express-on-vercel">minimal-express-on-vercel</a></strong>
@@ -182,13 +188,7 @@ Find configuration ideas or use as a foundation for your next project. View as a
         </td>
         <td width="70%">Browser-based automations with Crawlee and Playwright using Vite tooling and TypeScript</td>
       </tr>
-<tr>
-        <td width="30%">
-          <strong><a href="https://github.com/briangershon/minecraft-plugin">minecraft-plugin</a></strong>
-        </td>
-        <td width="70%">An educational starter Minecraft plugin geared toward new plugin developers. Compiles on modern versions of Java but targets Java 8 to support installing plugins on older servers.</td>
-      </tr>
-<tr><td width="30%">&nbsp;</td><td width="70%">14 more:  <a href="https://github.com/briangershon/typescript-vscode-dev">typescript-vscode-dev</a>, <a href="https://github.com/briangershon/python-vscode-dev">python-vscode-dev</a>, <a href="https://github.com/briangershon/p5js-starter">p5js-starter</a>, <a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a>, <a href="https://github.com/briangershon/react-rainbow-tailwind">react-rainbow-tailwind</a>, <a href="https://github.com/briangershon/solana-anchor-client-start">solana-anchor-client-start</a>, <a href="https://github.com/briangershon/openzeppelin-solidity-hardhat-playground">openzeppelin-solidity-hardhat-playground</a>, <a href="https://github.com/briangershon/react-minimal">react-minimal</a>, <a href="https://github.com/briangershon/glitch-minimal">glitch-minimal</a>, <a href="https://github.com/briangershon/typescript-webpack-starter">typescript-webpack-starter</a>, <a href="https://github.com/briangershon/eleventy-minimal">eleventy-minimal</a>, <a href="https://github.com/briangershon/vanilla-js-minimal">vanilla-js-minimal</a>, <a href="https://github.com/briangershon/threejs-minimal">threejs-minimal</a>, <a href="https://github.com/briangershon/nodejs-minimal">nodejs-minimal</a></td></tr>
+<tr><td width="30%">&nbsp;</td><td width="70%">15 more:  <a href="https://github.com/briangershon/minecraft-plugin">minecraft-plugin</a>, <a href="https://github.com/briangershon/typescript-vscode-dev">typescript-vscode-dev</a>, <a href="https://github.com/briangershon/python-vscode-dev">python-vscode-dev</a>, <a href="https://github.com/briangershon/p5js-starter">p5js-starter</a>, <a href="https://github.com/briangershon/openzeppelin-erc721-upgradeable">openzeppelin-erc721-upgradeable</a>, <a href="https://github.com/briangershon/react-rainbow-tailwind">react-rainbow-tailwind</a>, <a href="https://github.com/briangershon/solana-anchor-client-start">solana-anchor-client-start</a>, <a href="https://github.com/briangershon/openzeppelin-solidity-hardhat-playground">openzeppelin-solidity-hardhat-playground</a>, <a href="https://github.com/briangershon/react-minimal">react-minimal</a>, <a href="https://github.com/briangershon/glitch-minimal">glitch-minimal</a>, <a href="https://github.com/briangershon/typescript-webpack-starter">typescript-webpack-starter</a>, <a href="https://github.com/briangershon/eleventy-minimal">eleventy-minimal</a>, <a href="https://github.com/briangershon/vanilla-js-minimal">vanilla-js-minimal</a>, <a href="https://github.com/briangershon/threejs-minimal">threejs-minimal</a>, <a href="https://github.com/briangershon/nodejs-minimal">nodejs-minimal</a></td></tr>
 </table>
 
 ## Miscellaneous
