@@ -7,4 +7,4 @@
 
 ---
 
-📫 You can find me in various communities by visiting [brianfive.xyz](https://brianfive.xyz/).
+📫 You can find me in various communities by visiting [briangershon.com](https://briangershon.com/).

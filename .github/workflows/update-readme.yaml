@@ -10,11 +10,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
       - run: npm install
       - run: npm run generate
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Update README.md (bot)
           commit_user_name: Github Action
