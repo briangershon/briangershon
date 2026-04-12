@@ -9,7 +9,7 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
         70%">
           <strong>briangershon/publishable</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/publishable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/publishable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
       </tr>
 <tr>
         <td width="
