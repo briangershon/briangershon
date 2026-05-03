@@ -7,6 +7,13 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
 <tr>
         <td width="
         70%">
+          <strong>briangershon/lumens</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/lumens/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>briangershon/publishable</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/publishable/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
@@ -136,13 +143,6 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
           <strong>briangershon/langgraphjs-first-agent</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/langgraphjs-first-agent/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">5 PRs</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/typescript-vscode-dev</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/typescript-vscode-dev/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
       </tr>
 </table>
 
