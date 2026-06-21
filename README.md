@@ -70,9 +70,9 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
 <tr>
         <td width="
         70%">
-          <strong>Bittrees-Technology/bittrees-research-ui</strong>
+          <strong>Bittrees-Technology/Bittrees-Research</strong>
         </td>
-        <td width="30%"><a href="https://github.com/Bittrees-Technology/bittrees-research-ui/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">26 PRs</a></td>
+        <td width="30%"><a href="https://github.com/Bittrees-Technology/Bittrees-Research/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">26 PRs</a></td>
       </tr>
 <tr>
         <td width="
