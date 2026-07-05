@@ -17,8 +17,12 @@
     "url": "https://github.com/briangershon/briangershon/issues"
   },
   "homepage": "https://github.com/briangershon/briangershon#readme",
+  "engines": {
+    "node": ">=24",
+    "npm": ">=11.16.0"
+  },
   "dependencies": {
-    "axios": "^1.13.5",
+    "axios": "^1.18.1",
     "cheerio": "^1.2.0",
     "octokit": "^5.0.5"
   }
