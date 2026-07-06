@@ -7,16 +7,16 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
 <tr>
         <td width="
         70%">
-          <strong>briangershon/briangershon</strong>
+          <strong>briangershon/agent-workspace</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/briangershon/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">5 PRs</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/agent-workspace/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">9 PRs</a></td>
       </tr>
 <tr>
         <td width="
         70%">
-          <strong>briangershon/agent-workspace</strong>
+          <strong>briangershon/briangershon</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/agent-workspace/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">8 PRs</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/briangershon/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">5 PRs</a></td>
       </tr>
 <tr>
         <td width="
