@@ -7,6 +7,13 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
 <tr>
         <td width="
         70%">
+          <strong>briangershon/workflow-with-agents</strong>
+        </td>
+        <td width="30%"><a href="https://github.com/briangershon/workflow-with-agents/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
+      </tr>
+<tr>
+        <td width="
+        70%">
           <strong>briangershon/agent-workspace</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/agent-workspace/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">9 PRs</a></td>
@@ -136,13 +143,6 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
           <strong>briangershon/crawlee-playwright</strong>
         </td>
         <td width="30%"><a href="https://github.com/briangershon/crawlee-playwright/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
-      </tr>
-<tr>
-        <td width="
-        70%">
-          <strong>briangershon/hello-controlflow</strong>
-        </td>
-        <td width="30%"><a href="https://github.com/briangershon/hello-controlflow/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">1 PR</a></td>
       </tr>
 </table>
 
