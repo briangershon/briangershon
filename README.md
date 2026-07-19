@@ -9,7 +9,7 @@ My most recent code contributions, limited to 20 repositories, or [view all my P
         70%">
           <strong>briangershon/workflow-with-agents</strong>
         </td>
-        <td width="30%"><a href="https://github.com/briangershon/workflow-with-agents/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">2 PRs</a></td>
+        <td width="30%"><a href="https://github.com/briangershon/workflow-with-agents/pulls?q=is%3Apr+is%3Aclosed+author%3Abriangershon">3 PRs</a></td>
       </tr>
 <tr>
         <td width="
